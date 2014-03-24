@@ -1,7 +1,7 @@
 {
   "name": "minify-css-stream",
   "version": "0.0.0",
-  "description": "minify-css-stream =================",
+  "description": "A through stream that minifies css.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
